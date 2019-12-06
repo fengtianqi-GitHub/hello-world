@@ -1,3 +1,1 @@
-# hello-world
-my another repository
-hello there
+print("hello world")
